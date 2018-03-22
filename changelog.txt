@@ -1,0 +1,2 @@
+ver 1.0.0 - 8 February, 2018
+- Initial Connects - MailWizz add-on
